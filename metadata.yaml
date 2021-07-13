@@ -1,0 +1,30 @@
+_repo: The-Everlasting-Man_65688
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    - Chesterton, Gilbert Keith
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: https://en.wikipedia.org/wiki/G._K._Chesterton
+description: ''
+gutenberg_issued: '2021-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65688'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Religion'
+- !lcsh 'Catholic Church -- Apologetic works'
+- !lcsh 'Christianity and other religions'
+- !lcc 'BL'
+- GITenberg
+title: The Everlasting Man
+url: http://www.gutenberg.org/ebooks/65688
